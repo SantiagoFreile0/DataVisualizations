@@ -3,7 +3,7 @@ title: "Data Science Salaries"
 author: "Santiago Freile"
 date: "2025-03-16"
 output:
-  html_document:
+  github_document:
   toc: no
 toc_float: yes
 toc_collapsed: no
